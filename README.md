@@ -2,6 +2,4 @@
 
 ## Todo with context-api and custom hook (useLocalStorage)
 
-### Deploy:
-
-<!-- *  -->
+<a href="https://tasks-opal.vercel.app/">Deploy</a>
